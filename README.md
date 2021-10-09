@@ -20,14 +20,15 @@
 
 * Mis hobbies se encuentra: Asistir a eventos geek 🤓🤓🤓, ver series y películas, leer libros y webtoons de romance, estar activa en Twitter.🐦🐦
 
-
-![Karu-Cortes GitHub stats](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&layout=compact)](https://github.com/Karu-Cortes/github-readme-stats)
-
-
-
 💚💚 Mis Redes Sociales 💚💚
 * ✨ Twitter: https://twitter.com/karucn20
 * ✨ Linkedin:https://www.linkedin.com/in/karen-cortes-2584a6213/
 * ✨ Interacpedia: https://interacpedia.com/user/karen-jiliam-cortes-navarro
 * ✨ Mi Correo: karenj.cortes@outlook.com
+
+
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Karu-Cortes&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
+
+
+
