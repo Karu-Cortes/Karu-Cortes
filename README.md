@@ -1,12 +1,12 @@
 ### ¡Hola! there 👋
 
 
-Actualmente hago parte de  Mision Tic 2022 **Swift**
-Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas.💪 **Swift**
+Actualmente hago parte de  Mision Tic 2022.
+Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas.
 
-  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-  🌟Estudiando para ser FrontEnd 🌟
-  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟.
+  🌟Estudiando para ser FrontEnd 🌟.
+  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟.
   
 Intento aprender actualmente HTML, CSS y JavaScript 💖💖💖
 Me gusta el desarrollo y el diseño Web, quiero formarme para llegar a aprender herramientas que me puedan ayudar al momento de crear mis páginas.🙈
