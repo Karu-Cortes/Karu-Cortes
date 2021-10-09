@@ -21,12 +21,8 @@
 * Mis hobbies se encuentra: Asistir a eventos geek 🤓🤓🤓, ver series y películas, leer libros y webtoons de romance, estar activa en Twitter.🐦🐦
 
 
-![Karu-Cortes GitHub stats](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&show_icons=true&theme=radical)
-
-
-
-
-
+![Karu-Cortes GitHub stats](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&layout=compact)](https://github.com/Karu-Cortes/github-readme-stats)
 
 
 
