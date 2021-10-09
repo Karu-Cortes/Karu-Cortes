@@ -1,17 +1,22 @@
-### ¡Hola! there 👋
+### ¡Hola!  👋
 
 
-Actualmente hago parte de  Mision Tic 2022.
-Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas.
+💖Actualmente hago parte de  Mision Tic 2022
 
-  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟.
-  🌟Estudiando para ser FrontEnd 🌟.
-  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟.
+💖Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
+
+
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🌟Estudiando para ser FrontEnd 🌟
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
   
-Intento aprender actualmente HTML, CSS y JavaScript 💖💖💖
-Me gusta el desarrollo y el diseño Web, quiero formarme para llegar a aprender herramientas que me puedan ayudar al momento de crear mis páginas.🙈
 
-Mis hobbies se encuentra: Asistir a eventos geek 🤓🤓🤓, ver series y películas, leer libros y webtoons de romance, estar activa en Twitter.🐦🐦
+💖Intento aprender actualmente HTML, CSS y JavaScript 💖💖💖
+
+💖Me gusta el desarrollo y el diseño Web, quiero formarme para llegar a aprender herramientas que me puedan ayudar al momento de crear mis páginas.🙈
+
+💖Mis hobbies se encuentra: Asistir a eventos geek 🤓🤓🤓, ver series y películas, leer libros y webtoons de romance, estar activa en Twitter.🐦🐦
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
