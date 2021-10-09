@@ -1,8 +1,8 @@
 ### ¡Hola! there 👋
 
 
-Actualmente hago parte de  Mision Tic 2022
-Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas.💪 
+Actualmente hago parte de  Mision Tic 2022 **Swift**
+Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas.💪 **Swift**
 
   🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
   🌟Estudiando para ser FrontEnd 🌟
