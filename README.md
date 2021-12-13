@@ -1,8 +1,6 @@
 ### ¡Hola, Soy Karen! 👋
 
 
-💖Hago parte de  Mision TIC 2022
-
 💖Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
 
 
