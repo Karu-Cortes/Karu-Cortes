@@ -15,7 +15,7 @@
 * ✨ Twitter: https://twitter.com/karucn20
 * ✨ Linkedin:https://www.linkedin.com/in/karen-cortes-2584a6213/
 * ✨ Interacpedia: https://interacpedia.com/user/karen-jiliam-cortes-navarro
-* ✨ Mi Correo: karenj.cortes@outlook.com
+* ✨ Mi Correo: karenj.cortesn@gmail.com
 
 
 
