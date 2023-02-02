@@ -12,7 +12,7 @@
 
 💚💚 Mis Redes Sociales 💚💚
 * ✨ Twitter: https://twitter.com/karucn20
-* ✨ Linkedin: https://www.linkedin.com/in/karenjiliamcortesnavarro-2584a6213/
+* ✨ Linkedin: https://www.linkedin.com/in/karenjiliamcortesnavarro/
 * ✨ Mi Correo: karenj.cortesn@gmail.com
 
 
