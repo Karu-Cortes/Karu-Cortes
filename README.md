@@ -1,4 +1,6 @@
-### ¡Hola, Soy Karen! 👋
+#  💫 Acerca de mí:
+
+¡Hola, Soy Karen! 👋
 
 
 💖 Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
@@ -9,13 +11,13 @@
 
 * Me gusta el desarrollo y el diseño Web, quiero formarme para llegar a aprender herramientas que me puedan ayudar al momento de crear mis páginas.🙈
 
+##  🌐 Sociales:
 
-💚💚 Mis Redes Sociales 💚💚
 * ✨ Twitter: https://twitter.com/karucn20
 * ✨ LinkedIn: https://www.linkedin.com/in/karenjiliamcortesnavarro/
 * ✨ Mi Correo: karenj.cortesn@gmail.com
 
-
+#  📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karu-Cortes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
