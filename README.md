@@ -1,7 +1,7 @@
 ### ¡Hola, Soy Karen! 👋
 
 
-💖Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
+💖 Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
 
 
 
@@ -12,8 +12,11 @@
 
 💚💚 Mis Redes Sociales 💚💚
 * ✨ Twitter: https://twitter.com/karucn20
-* ✨ Linkedin: https://www.linkedin.com/in/karenjiliamcortesnavarro/
+* ✨ LinkedIn: https://www.linkedin.com/in/karenjiliamcortesnavarro/
 * ✨ Mi Correo: karenj.cortesn@gmail.com
 
 
+![](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karu-Cortes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
