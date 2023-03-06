@@ -18,7 +18,5 @@
 * ✨ Mi Correo: karenj.cortesn@gmail.com
 
 #  📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karu-Cortes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karu-Cortes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
