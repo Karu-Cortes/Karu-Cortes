@@ -16,7 +16,6 @@
 * ✨ Twitter: https://twitter.com/karucn20
 * ✨ LinkedIn: https://www.linkedin.com/in/karenjiliamcortesnavarro/
 * ✨ Mi Correo: karenj.cortesn@gmail.com
-* ✨ Mi Perfil Magneto: https://profile.magneto365.com/pl/karenj.cortesn-5739854
 
 #  📊 Estadísticas de GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karu-Cortes&theme=dark&hide_border=false)<br/>
