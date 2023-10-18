@@ -5,10 +5,6 @@
 
 💖 Estudio en la Universidad Nacional Abierta y a Distancia (UNAD) Ingeniería de sistemas
 
-
-
-* Estoy aprendiendo HTML, CSS y JavaScript 💖💖💖
-
 * Me gusta el desarrollo y el diseño Web, quiero formarme para llegar a aprender herramientas que me puedan ayudar al momento de crear mis páginas.🙈
 
 ##  🌐 Sociales:
