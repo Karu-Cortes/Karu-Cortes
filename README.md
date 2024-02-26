@@ -9,7 +9,6 @@
 
 ##  🌐 Sociales:
 
-* ✨ Twitter: https://twitter.com/karucn20
 * ✨ LinkedIn: https://www.linkedin.com/in/karenjiliamcortesnavarro/
 * ✨ Mi Correo: karenj.cortesn@gmail.com
 
